@@ -1,3 +1,17 @@
-body {
+.main {
     margin-left: 40%;
+    margin-top: 20%;
+}
+
+.main h1 {
+    margin-left: 11%;
+}
+
+.butt {
+    display: inline-block;
+}
+
+.butt input {
+    width: 150%;
+    margin: 10px;
 }
